@@ -46,7 +46,7 @@ The default Breeze "stack" is the Blade stack, which utilizes simple [Blade temp
 php artisan breeze:install
 
 npm install
-npm run dev
+npm run build
 php artisan migrate
 ```
 
